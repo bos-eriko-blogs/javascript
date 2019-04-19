@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Bos Eriko's JavaScript Blog`,
+    title: `Bos Eriko's Code Blog`,
     author: `Bos Eriko`,
     description: `My random thoughts written in words.`,
-    siteUrl: `https://js.boseriko.blog/`,
+    siteUrl: `https://code.boseriko.blog/`,
     social: {
       twitter: `BosEriko`,
     },
@@ -57,8 +57,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Bos Eriko's Code Blog`,
+        short_name: `BosErikoCode`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
