@@ -30,7 +30,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <strong>{author}</strong>. He likes JavaScript because he can use it for everything.
+              Written by <strong>{author}</strong>. He likes making stuff.
               {` `}
               <a href={`https://twitter.com/${social.twitter}`}>
                 You should follow him on Twitter
